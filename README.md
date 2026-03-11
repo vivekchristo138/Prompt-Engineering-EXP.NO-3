@@ -44,4 +44,48 @@ Missing Word Prompting:
 
 OUTPUT:
 
+1. Straightforward Prompts
+
+Example 1
+Prompt: Explain the benefits of regular exercise in simple words.
+
+Example 2
+Prompt: Write a short paragraph about the importance of saving water.
+
+2. Tabular Format Prompting
+
+Example 1
+Prompt: Create a table showing the following animals and their habitats: Lion, Camel, Penguin.
+
+Example 2
+Prompt: Present the following information in a table:
+Subjects – Mathematics, Science, English
+Teachers – Mr. Arun, Ms. Priya, Mr. John
+
+3. Preceding Question Prompting
+
+Example 1
+Prompt:
+What is photosynthesis?
+Why is it important for plants?
+Explain the process of photosynthesis in simple terms.
+
+Example 2
+Prompt:
+What are renewable resources?
+Give two examples of renewable resources.
+Explain why renewable resources are important.
+
+4. Missing Word Prompting
+
+Example 1
+Prompt: Fill in the missing word.
+The capital city of France is ______.
+
+Example 2
+Prompt: Fill in the missing word.
+Water freezes at ______ degrees Celsius.
+
 RESULT: 
+
+the prompts for the following prompt types for 2 different scenarios of Each type is given successfully.
